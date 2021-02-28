@@ -1,5 +1,5 @@
 <?php
-include_once('modelDados.php');
+include_once('Dados.php');
 class EXCEL_RELATORIOS
 {
     public function getExcel($faturas, $arquivo)
